@@ -17,6 +17,12 @@
   },
   "homepage": "https://github.com/seegya/my_first_NFT#readme",
   "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.5",
+    "ethers": "^5.6.2",
     "hardhat": "^2.9.3"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^3.1.0-solc-0.7",
+    "dotenv": "^16.0.0"
   }
 }
